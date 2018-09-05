@@ -1,3 +1,11 @@
+/**
+ * COSC 2100 - Project 1
+ * The class is a mail merger that replaces marcos
+ * @author Thomas Harmeyer
+ * Instructor Dr. Brylow
+ * TA-BOT:MAILTO thomas.harmeyer@marquette.edu
+ */
+
 package emailPutterTogether;
 
 import java.util.ArrayList;
